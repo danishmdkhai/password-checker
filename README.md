@@ -13,15 +13,30 @@ It also helped me understand how password strength is evaluated in real applicat
 
 ## ⚙️ Features
 - Checks password length
-- Detects weak passwords
 - Gives feedback to the user
 - Simple and easy to use
 
-## 🛠️ Technologies Used
-- Python
-
 ## ▶️ How to Run
-1. Make sure Python is installed
-2. Clone the repository:
+
+1. Make sure Python 3 is installed  
+   Check by running:
    ```bash
-   git clone https://github.com/danishmdkhai/password-checker.git
+   python --version
+   ```
+
+2. Clone the repository:
+    ```bash
+    git clone https://github.com/danishmdkhai/password-checker.git
+    ```
+
+3. Navigate to the project folder:
+    ```bash
+    cd password-checker
+    ```
+
+4. Run the program:
+    ```bash
+    python Password-Checker.py
+    ```
+
+
